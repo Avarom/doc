@@ -1,0 +1,12 @@
+:chapter-label:
+:doctype: book
+:toclevels: 5
+:sectnums:
+:toc-title: Содержание
+:table-caption: Таблица
+:figure-caption: Рисунок
+:important-caption: Важно
+:note-caption: Примечание
+:warning-caption: Внимание
+:example-caption: Пример
+:toc:
